@@ -5,3 +5,7 @@ The code includes no modifications for image preprocessing on the JAFFE dataset 
 
 ### About the CNN
 The CNN includes 4 sparsely connected convolutional layers and 2 densely connected softmax and relu output layers for prediction. It also includes dropout to avoid overfitting data and mini batch learning.
+
+### About the repo
+The 'Code' folder contains a Jupyter Notebook.
+The 'Data' folder contains the hand made annotations for the data, the dataset can be downloaded from the link above.
